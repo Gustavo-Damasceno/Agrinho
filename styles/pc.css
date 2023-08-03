@@ -1,0 +1,31 @@
+@media screen and (min-width: 1728px){
+    .doações__lista{
+        padding: 2% 3%;
+        position: absolute;
+        left: 20%;
+    }
+
+    .img__doações{
+        padding: 4em 4em;
+    }
+
+    .topicos{
+        position: absolute;
+        left: 42%;
+     }
+
+     .topicos__2{
+        position: absolute;
+        left: 40%;
+     }
+
+     .card__e{
+        padding: 3em 3em;
+        position: absolute;
+        left: 38%;
+        top: 90%;
+    }
+
+}
+
+

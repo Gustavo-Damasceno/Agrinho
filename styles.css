@@ -1,0 +1,17 @@
+@import url(./styles/mobile.css);
+@import url(./styles/tablet.css);
+@import url(./styles/pc.css);
+
+:root{
+    --cor-de-fundo: #ffffff;
+    --braco: #ffffff;
+    --fonte-principal:"poppins";
+    --red: #ff0000;
+    --black: #000000;
+    --azul: #133eb6;
+    --cinza:#D3D3D3;
+}
+
+body{
+    background-color: var(--cor-de-fundo);
+}

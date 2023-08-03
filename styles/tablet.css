@@ -1,0 +1,56 @@
+@media screen and (min-width: 1024px){
+   .doações__lista{
+       padding: 2em 8em;  
+    }
+
+    .sangue{
+        position: absolute;
+        left: 5%;
+        padding: 0em 6em;
+    }
+
+    .topicos{
+        position: absolute;
+        left: 42%;
+     }
+     
+     .topicos__2{
+         position: absolute;
+         left: 38%;
+     }
+
+     .t__initial{
+        position: absolute;
+        left: 86%;
+        top: 0%;
+        background-color: var(--braco);
+        padding: 2em 0.5em;
+        font-size: 25px;
+        font-weight: 400; 
+    }
+
+    .cabeçalho__azul{
+        background-color: var(--azul);
+    }
+
+    .cabeçalho__cinza{
+        background-color: var(--cinza);
+    }
+
+    .t__inicial{
+        position: absolute;
+        left: 86%;
+        background-color: var(--braco);
+        padding: 2em 0.5em;
+        font-size: 25px;
+        font-weight: 400;  
+    }
+
+    .card__e{
+        padding: 1em;
+        position: absolute;
+        left: 34%;
+    }
+
+}
+
